@@ -58,10 +58,17 @@ h1	{
 	background-image: url("images/crash.png");
 }
 
-.set{
+.set {
 	margin: 10% auto;
 }
-footer{
+
+.pressed {
+	box-shadow: 0px 3px 4px 0px #DBEDF3;
+	opacity: 0.5;
+	
+}
+
+footer {
 	font-family:sans-serif, cursive;
 	color: #ffffff;
 	
